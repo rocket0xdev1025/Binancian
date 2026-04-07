@@ -12845,7 +12845,7 @@
           textShadow:
             "-1px -1px 0 black, 1px 1px 0 black, -1px 0 0 black, 1px 0 0 black, 0 3px 4px rgb(0, 0, 0), 0 -6px 7px rgba(0, 0, 0, 0.5)",
         },
-      };
+      }; 
       return (0, a.jsxs)("div", {
         style: n.connectContainer,
         children: [
