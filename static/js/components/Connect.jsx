@@ -82,7 +82,7 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://t.me/Binancians_army", "_blank")}
+          onClick={() => window.open("https://t.me/Binancian_cz", "_blank")}
         />
 
         {/* X (Twitter) Button */}
@@ -98,7 +98,7 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://x.com/Binancians_army", "_blank")}
+          onClick={() => window.open("https://x.com/Binancian_cz", "_blank")}
         />
 
         {/* DEX Screener Button */}
@@ -114,13 +114,13 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://dexscreener.com/bsc/0x603bF34f53E52cA7166cEd32C6564878428dB323", "_blank")}
+          onClick={() => window.open("https://dexscreener.com/bsc/0xcomingsoon", "_blank")}
         />
       </div>
 
       {/* Disclaimer Text */}
       <div style={styles.disclaimerContainer}>
-        COPYRIGHT ©2025 BINANCIAN. LEGAL DISCLAIMER: $BINANCIAN IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. 
+        COPYRIGHT ©2026 BINANCIAN. LEGAL DISCLAIMER: $BINANCIAN IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. 
         IT IS COMPLETELY USELESS AND ONLY FOR ENTERTAINMENT PURPOSES. WHEN YOU BUY $BINANCIAN YOU ARE AGREEING TO THIS DISCLAIMER.
       </div>
     </div>

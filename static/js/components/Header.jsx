@@ -37,7 +37,7 @@ const Header = () => {
   };
 
   const handleCopyCA = () => {
-    navigator.clipboard.writeText("0x603bF34f53E52cA7166cEd32C6564878428dB323");
+    navigator.clipboard.writeText("0xcomingsoon");
     alert("Contract Address copied!");
   };
 
@@ -176,7 +176,7 @@ const Header = () => {
       )}
       <div style={styles.buttons}>
         <button style={styles.button} onClick={handleCopyCA}>COPY CA</button>
-        <button style={styles.button} onClick={() => window.open("https://pancakeswap.finance/swap?outputCurrency=0x603bF34f53E52cA7166cEd32C6564878428dB323", "_blank")}>BUY NOW</button>
+        <button style={styles.button} onClick={() => window.open("https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon", "_blank")}>BUY NOW</button>
         {isMobile && (<div style={styles.hamburger} onClick={() => setMenuOpen(true)}>&#9776;</div>)}
       </div>
       {isMobile && menuOpen && (
@@ -191,7 +191,7 @@ const Header = () => {
               <li style={styles.navItem} onClick={() => handleScrollTo("connect")}>CONNECT</li>
             </ul>
             <button style={styles.hamburgerButton} onClick={handleCopyCA}>COPY CA</button>
-            <button style={styles.hamburgerButton} onClick={() => window.open("https://pancakeswap.finance/swap?outputCurrency=0x603bF34f53E52cA7166cEd32C6564878428dB323", "_blank")}>BUY NOW</button>
+            <button style={styles.hamburgerButton} onClick={() => window.open("https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon", "_blank")}>BUY NOW</button>
           </div>
         </>
       )}

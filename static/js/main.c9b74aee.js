@@ -12280,7 +12280,7 @@
         },
         s = () => {
           navigator.clipboard.writeText(
-            "0x603bF34f53E52cA7166cEd32C6564878428dB323"
+            "0xcomingsoon"
           ),
             alert("Contract Address copied!");
         },
@@ -12452,7 +12452,7 @@
                 style: c.button,
                 onClick: () =>
                   window.open(
-                    "https://pancakeswap.finance/swap?outputCurrency=0x603bF34f53E52cA7166cEd32C6564878428dB323",
+                    "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                     "_blank"
                   ),
                 children: "BUY NOW",
@@ -12512,7 +12512,7 @@
                       style: c.hamburgerButton,
                       onClick: () =>
                         window.open(
-                          "https://pancakeswap.finance/swap?outputCurrency=0x603bF34f53E52cA7166cEd32C6564878428dB323",
+                          "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                           "_blank"
                         ),
                       children: "BUY NOW",
@@ -12866,7 +12866,7 @@
                   e.target.style.transform = "scale(1)";
                 },
                 onClick: () =>
-                  window.open("https://t.me/Binancians_army", "_blank"),
+                  window.open("https://t.me/Binancian_cz", "_blank"),
               }),
               (0, a.jsx)("img", {
                 src: "/images/xbtn.png",
@@ -12882,7 +12882,7 @@
                   e.target.style.transform = "scale(1)";
                 },
                 onClick: () =>
-                  window.open("https://x.com/Binancians_army", "_blank"),
+                  window.open("https://x.com/Binancian_cz", "_blank"),
               }),
               (0, a.jsx)("img", {
                 src: "/images/dexbtn.png",
@@ -12899,7 +12899,7 @@
                 },
                 onClick: () =>
                   window.open(
-                    "https://dexscreener.com/bsc/0x603bF34f53E52cA7166cEd32C6564878428dB323",
+                    "https://dexscreener.com/bsc/0xcomingsoon",
                     "_blank"
                   ),
               }),
@@ -12908,7 +12908,7 @@
           (0, a.jsx)("div", {
             style: n.disclaimerContainer,
             children:
-              "COPYRIGHT \xa92025 BINANCIAN. LEGAL DISCLAIMER: $BINANCIAN IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. IT IS COMPLETELY USELESS AND ONLY FOR ENTERTAINMENT PURPOSES. WHEN YOU BUY $BINANCIAN YOU ARE AGREEING TO THIS DISCLAIMER.",
+              "COPYRIGHT \xa92026 BINANCIAN. LEGAL DISCLAIMER: $BINANCIAN IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. IT IS COMPLETELY USELESS AND ONLY FOR ENTERTAINMENT PURPOSES. WHEN YOU BUY $BINANCIAN YOU ARE AGREEING TO THIS DISCLAIMER.",
           }),
         ],
       });
